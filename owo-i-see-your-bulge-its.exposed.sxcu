@@ -1,0 +1,7 @@
+{
+  "DestinationType": "ImageUploader",
+  "RequestURL": "https://owo-i-see-your-bulge-its.exposed/upload",
+  "FileFormName": "image",
+  "URL": "$json:url$",
+  "DeletionURL": "$json:del_url$"
+}
